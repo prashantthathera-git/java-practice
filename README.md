@@ -9,8 +9,8 @@ I am learning Java step by step and uploading my daily practice here.
 - Java Basics
 - Input and Output
 - Conditional Statements
-- Loops (upcoming)
-- Arrays (upcoming)
+- Loops 
+- Arrays
 - Data Structures (upcoming)
 
 ## Tools Used
